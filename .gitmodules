@@ -1,0 +1,24 @@
+[submodule "resource-service-reactive-r2dbc"]
+	path = resource-service-reactive-r2dbc
+	url = git@github.com:microservice-foundation/resource-service-reactive-r2dbc.git
+[submodule "song-service-reactive-r2dbc"]
+	path = song-service-reactive-r2dbc
+	url = git@github.com:microservice-foundation/song-service-reactive-r2dbc.git
+[submodule "configuration-service"]
+	path = configuration-service
+	url = git@github.com:microservice-foundation/configuration-service.git
+[submodule "service-discovery-service"]
+	path = service-discovery-service
+	url = git@github.com:microservice-foundation/service-discovery-service.git
+[submodule "resource-processor-service-reactive"]
+	path = resource-processor-service-reactive
+	url = git@github.com:microservice-foundation/resource-processor-service-reactive.git
+[submodule "storage-service-reactive-r2dbc"]
+	path = storage-service-reactive-r2dbc
+	url = git@github.com:microservice-foundation/storage-service-reactive-r2dbc.git
+[submodule "api-gateway-service"]
+	path = api-gateway-service
+	url = git@github.com:microservice-foundation/api-gateway-service.git
+[submodule "services-configurations-store"]
+	path = services-configurations-store
+	url = git@github.com:microservice-foundation/services-configurations-store.git
